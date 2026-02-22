@@ -125,7 +125,7 @@ The analysis is based on the available overlapping time window between trader ac
 
 ## 💼 Author
 
-**[Your Name]**
+Shravan Kotagi
 Data Science Intern Candidate
 
 ---
